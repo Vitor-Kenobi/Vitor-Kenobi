@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, glad to have you here. Be nice and take a look at my profile 🖖
 
 <!--
 **Vitor-Kenobi/Vitor-Kenobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
