@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 PHP developer enthusiast and secret Python lover.<br>📚 Computer Science student.<br>⚠️Incurable nerd.<br>🌌El Psy Congroo!</p>
+<p align="left">👨‍💻 PHP developer enthusiast (and secret Python lover).<br>📚 Computer Science student.<br>⚠️Incurable nerd.<br>🌌El Psy Congroo!</p>
 
 ###
 
